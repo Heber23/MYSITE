@@ -1,0 +1,272 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: inherit;
+}
+header{
+   margin: auto;
+   width: 900px;
+   background-color:rgb(234, 234, 234) ;
+   font-family: inherit;
+}
+.menue_bar{
+    background-color: black;
+    margin: 0px;
+    font-family: inherit;
+}
+.menue_bar > img{
+    margin-left: 23px;
+    margin-top: 8px;
+}
+.menue_bar > h3{
+    padding-top: 0px;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 11px;
+    padding-right: 210px;
+    margin-bottom: 10px;
+}
+.menue_bar > button{
+    vertical-align: top;
+    margin-top: 12px;
+    background-color: black;
+    color: white;
+    border-left: hidden;
+    border-top: hidden;
+    border-bottom: hidden;
+    border-right: solid 1px;
+}
+header > h2{
+    display: inline-block;
+    margin-left: 20px;
+    font-family: inherit;
+    font-weight: 100;
+    font-size: 31px;
+}
+header > p{
+    width: 418px;
+    display: inline-block;
+    vertical-align: text-top;
+    margin-top: -6px;
+    margin-right: 193px;
+    margin-left: 20px;
+    font-size: 16px;
+}
+header > button{
+    margin-left: 329px;
+    margin-top: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+}
+header > img {
+    margin-top: -205px;
+    width: 406px;
+    margin-left: 477px;
+}
+main{
+    background-color: rgb(234, 234, 234);
+    width: 900px;
+    margin: auto;
+    padding-top: 1px;
+}
+.container{
+    display: inline-block;
+    width: 186px;
+    vertical-align: top;
+    border-right: 2px solid gray;
+    margin-left: 5px;
+    padding-right: 13px;
+    padding-top: 17px;
+    text-align: left;
+}
+ 
+ .container > p{
+    font-size: 14px;
+    margin-top: 0px;
+ }
+
+ .container > h4 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+ }
+ .container_3{
+    display: inline-block;
+    width: 186px;
+    vertical-align: top;
+    margin-left: 5px;
+    padding-right: 13px;
+    padding-top: 17px;
+    text-align: left;
+}
+ 
+ .container_3 > p{
+    font-size: 14px;
+    margin-top: -4px;
+ }
+ .container_3 > h4{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+ }
+ }
+ main > hr {
+    width: 898px;
+    margin-top: -36px;
+    margin-bottom: 29px;
+    border: ridge 2px white;
+    border-style: inset;
+ }
+ .container_4{
+    display: inline-block;
+    margin-top: -23px;
+    margin-right: 0px;
+    vertical-align: text-top;
+    width: 705px;
+    margin-left: 5px;
+ }
+ .container_4 > h4{
+    font-size: 20px;
+    display: inline-block;
+    margin-bottom: 0px;
+ }
+ .container_4 > p{
+    font-size: 13px;
+    width: 571px;
+    display: inline-block;
+ }
+ .container_5{
+    background-color: white;
+    width: 252px;
+    height: auto;
+    display: inline-block;
+    margin-left: 628px;
+    margin-top: -293px;
+    font-size: 13px;
+    padding: 9px;
+    padding-top: 1px;
+    vertical-align: top;
+ }
+ .container_5 > h4{
+    display: inline-block;
+    width: 126px;
+    font-size: 17px;
+    padding: 0px;
+    margin-top: 20px;
+ }
+ .container_5 > p{
+    display: inline-block;
+    width: 157px;
+    text-align: left;
+    margin-top: -19px;
+    margin-bottom: -16px;
+ }
+ .container_5 > img{
+    margin-top: -263px;
+    vertical-align: top;
+    margin-left: 155px;
+    height: 191px;
+ }
+ a {
+    color: gray;
+ }
+footer{
+    background-color: black;
+    width: 900px;
+    margin: auto;
+    font-family: inherit;
+}
+input{
+    background-color: rgb(36, 35, 35);
+}
+sub{
+    color: white;
+    background-color: rgb(26, 25, 25);
+}
+.Contact_us{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 11px;
+}
+.Contact_us > ul {
+    color: white;
+    list-style-type: none;
+    padding-left: 3px;
+    font-size: 10px;
+    margin-top: -8px;
+    line-height: 17px;
+}
+.Contact_us > h4 {
+color: white;
+}
+.Contact_us > p {
+    color: white;
+}
+.Support_help{
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 154px;
+}
+.Support_help > h4 {
+    color: white;
+    margin-left: 40px;
+}
+.Support_help > ul{
+    list-style-type: none;
+    margin-top: -13px;
+    font-size: 10px;
+    line-height: 22px;
+    
+}
+.Support_help > p {
+    color: white;
+}
+.login{
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    width: 247px;
+    margin-left: 24px;
+}
+.login > h4{
+    color: white;
+    margin-left: -3px;
+}
+
+.login > p{
+    color: white;
+    font-size: 10px;
+    line-height: 17px;
+    margin-top: -14px;
+}
+.login > input{
+    width: 86px;
+    height: 17px;
+}
+sub {
+    padding-bottom: 2px;
+    color: white;
+    vertical-align: text-top;
+}
+
+.login >.phone{
+    width: 185px;
+    margin-top: 15px;
+    margin-right: 3px;
+}
+footer > p {
+    color: #3c3a3a;
+    background-color: lightgray;
+    padding-left: 208px;
+    font-size: 11px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.underline{
+    border-bottom: solid 1px white;
+    width: 259px;
+}
